@@ -1,4 +1,5 @@
 # Alura - Curso: [Lógica de Programação I - Os primeiros programas com Javascript e HTML](https://cursos.alura.com.br/course/logica-programacao-javascript-html)
+![](http://www.alura.com.br/assets/api/share/curso-logica-programacao-javascript-html.png)
 Arquivos do curso da Alura Curso Lógica de programação I: Os primeiros programas com Javascript e HTML
 
 > Aula01 - Comece a programar hoje
