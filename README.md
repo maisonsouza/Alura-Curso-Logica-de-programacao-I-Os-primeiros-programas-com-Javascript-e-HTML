@@ -7,3 +7,15 @@ Arquivos do curso da Alura Curso Lógica de programação I: Os primeiros progra
 > Aula02 - Comunique-se com o usuário
 
 > Aula03 - Torne seu programa dinâmico com variáveis
+
+> Aula04 - Crie suas próprias funcionalidades
+
+> Aula05 - Pratique resolvendo problemas do seu dia a dia.
+
+> Aula06 - Execute códigos diferentes dependendo da aplicação
+
+> Aula07 - Repita tarefas
+
+> Aula08 - Interaja de maneiras diferentes com o usuário
+
+> Aula09 - Trabalhe com muitos dados.
